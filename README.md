@@ -1,4 +1,4 @@
-# 🚀 Automation Project 2: Selenium Practice on Let's Kode It
+# 🚀 Automation Project : Selenium Practice on Let's Kode It
 
 ## Project Title
 **Automation Testing of "Let's Kode It Practice" Website**
